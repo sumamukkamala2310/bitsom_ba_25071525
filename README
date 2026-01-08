@@ -1,0 +1,27 @@
+# FlexiMart ETL Assignment
+
+## Objective
+The goal of this assignment is to clean customer, product, and sales data from CSV files,
+load it into a relational database, and answer business questions using SQL.
+
+## Technologies Used
+- Python
+- Pandas
+- MySQL / PostgreSQL
+- SQL
+
+## Project Structure
+
+## Steps to Run
+1. Clone the repository
+2. Install required libraries
+3. Run the ETL script
+4. Execute SQL queries
+
+## Key Features
+- Data cleaning and validation
+- Normalized database schema
+- Business insight queries
+
+## Author
+Suma Mukkamala
